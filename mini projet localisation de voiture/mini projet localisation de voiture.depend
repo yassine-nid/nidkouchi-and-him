@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1623018422 source:d:\smi4\projet\mini projet localisation de voiture\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"voiture.h"
+	"client.h"
+	"comtratlocation.h"
+
+1622926907 d:\smi4\projet\mini projet localisation de voiture\voiture.h
+
+1622733468 d:\smi4\projet\mini projet localisation de voiture\client.h
+
+1622931406 d:\smi4\projet\mini projet localisation de voiture\comtratlocation.h
+
